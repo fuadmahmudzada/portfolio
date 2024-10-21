@@ -1,5 +1,5 @@
 # Name Surname
-Welcome to my portfolio website! I am a Software Developer Intern with a passion for backend development and full-stack project delivery.
+Welcome to my portfolio website! I am a Software Developer  with a passion for backend development.
 
 ## Internship Experience
 ### Software Developer - Internship
