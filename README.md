@@ -1,4 +1,4 @@
-# Name Surname
+# Fuad Mahmudzada
 Welcome to my portfolio website! I am a Software Developer  with a passion for backend development.
 
 ## Internship Experience
